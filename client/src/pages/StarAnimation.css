@@ -1,0 +1,28 @@
+.star-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+  }
+  
+  .star {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid white;
+    background-color: transparent;
+    animation: fall 3s linear infinite;
+  }
+  
+  @keyframes fall {
+    from {
+      transform: translateY(-50px);
+    }
+    to {
+      transform: translateY(100vh);
+    }
+  }
+  

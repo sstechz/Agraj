@@ -1,0 +1,57 @@
+[
+  {
+    "name": "SBI (State Bank Of India)",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SBI-logo.svg/2048px-SBI-logo.svg.png",
+    "phone": "1800 209 1111",
+    "email": "customer.care@sbigeneral.in",
+    "schemes": "PMFBY || WBCIS",
+    "url": "https://www.sbigeneral.in/pradhan-mantri-fasal-bima-yojna"
+  },
+
+  {
+    "name": "Bajaj Allianz General Insurance Co. Ltd",
+    "icon": "https://e7.pngegg.com/pngimages/887/91/png-clipart-bajaj-auto-bajaj-finserv-ltd-mortgage-loan-finance-finance-blue-company-thumbnail.png",
+    "phone": "1800 209 5959",
+    "email": "bagichelp@bajajallianz.co.in",
+    "schemes": "PMFBY",
+    "url": "https://www.bajajallianz.com/pradhan-mantri-fasal-bima-yojana.html?utm_source=GoogleBrandBagic&param1=Brand_General_Insurance_N&param2=BA_General_Ins_Exact&param3=bajaj%20allianz%20general%20insurance%20co%20ltd-kwd-1765267801-c-g&utm_content=SEM&gclid=Cj0KCQjww4-hBhCtARIsAC9gR3bcWvD2792Aj9KJTUiIjRbk0scynQZSypbU4kVK3_W9SRUPYDeD8sEaAuAeEALw_wcB&gclsrc=aw.ds"
+  },
+
+  {
+    "name": "ICICI Lombard General Insurance Co. Ltd",
+    "icon": "https://e7.pngegg.com/pngimages/1017/561/png-clipart-icici-bank-nad-kotha-road-vishakhapatnam-branch-atm-student-loan-bank-orange-logo.png",
+    "phone": "1800 266 9725",
+    "email": "customersupport@icicilombard.com",
+    "schemes": "PMFBY",
+    "url": "https://www.icicilombard.com/crop-insurance"
+  },
+
+  {
+    "name": "Bharti Axa General Insurance Co. Ltd.",
+    "icon": "https://w7.pngwing.com/pngs/784/473/png-transparent-axa-health-insurance-xl-group-life-insurance-others-blue-angle-text-thumbnail.png",
+    "phone": "1800 103 7712",
+    "email": "customer.service@bharti-axagi.co.in",
+    "schemes": "PMFBY",
+    "url": "https://www.bhartiaxa.com/"
+  },
+
+  {
+    "name": "Agriculture Insurance Co.",
+    "icon": "https://w7.pngwing.com/pngs/256/60/png-transparent-agriculture-insurance-company-of-india-crop-insurance-insurance-miscellaneous-company-text.png",
+    "phone": "1800 116 515",
+    "email": "fasalbima@aicofindia.com",
+    "schemes": "PMFBY || RWBCIS",
+    "url": "https://www.aicofindia.com/AICEng/Pages/default.aspx"
+  },
+
+  {
+    "name": "IFFCO-Tokio General Insurance Co. Ltd.",
+    "icon": "https://pixlok.com/wp-content/uploads/2022/01/iffco-tokio-logo-PNG-psmvfd.jpg",
+    "phone": "1800 103 5499",
+    "email": "support@iffcotokio.co.in",
+    "schemes": "PMFBY",
+    "url": "https://www.iffcotokio.co.in/pradhan-mantri-fasal-bima-yojana"
+  }
+
+  
+]
