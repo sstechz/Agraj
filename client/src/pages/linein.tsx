@@ -62,7 +62,7 @@ function LoginForm(props: {
     setIsError(false);
     setIsSuccess(false);
     //  endpoint url for accessing the submit-login page from our backend API
-    const url = "http://localhost:8081/submit-login";
+    const url = "https://agraj.onrender.com/submit-login";
 
     try {
       const response = await axios.post(url, {
@@ -79,7 +79,7 @@ function LoginForm(props: {
         setIsSuccess(true);
 
         const userResponse = await axios.get(
-          `http://localhost:8081/user/${email}`
+          `https://agraj.onrender.com/user/${email}`
         );
         setUserData(userResponse.data);
 
@@ -94,7 +94,7 @@ function LoginForm(props: {
         props.area(userResponse.data.area);
         props.income(userResponse.data.income);
 
-        const response2 = await axios.post("http://localhost:8081/check-user-applied", {
+        const response2 = await axios.post("https://agraj.onrender.com/check-user-applied", {
           email: userResponse.data.email,
         });
 
