@@ -226,10 +226,11 @@ app.get("/user/:email", async (req, res) => {
 });
 
 const startServer = async () => {
+  const PORT = process.env.PORT || 8081;
   try {
     connectDB(process.env.MONGODB_URL);
 
-    app.listen(8081, () =>
+    app.listen(PORT, () =>
       console.log("Server started on port http://localhost:8081")
     );
   } catch (error) {
