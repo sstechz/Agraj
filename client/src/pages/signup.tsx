@@ -41,7 +41,7 @@ function MyForm() {
   const handleSignUp = (e: { preventDefault: () => void }) => {
     e.preventDefault();
 
-    const url = "http://localhost:8081/submit-signup";
+    const url = "https://agraj.onrender.com/submit-signup";
 
     setIsLoading(true);
 
