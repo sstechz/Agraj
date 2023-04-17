@@ -89,7 +89,7 @@ function App() {
 
     return {
       success: true,
-      redirectTo: "/linein",
+      redirectTo: "/",
     };
 
     // console.log("Logging out...");
@@ -573,7 +573,7 @@ function App() {
 
       //  redirects to the linein (signin) page
       //  and refreshes the page to update it with new data
-      window.location.href = "/linein";
+      window.location.href = "/";
       window.location.reload();
 
       return {
