@@ -225,7 +225,7 @@ function App() {
 
       setIsLoading(true);
 
-      const url = "http://localhost:8081/submit-signup";
+      const url = "https://agraj.onrender.com/submit-signup";
 
       console.log("From the sign-UP page, value of gender is : ", gender);
 
