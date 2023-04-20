@@ -1,3 +1,6 @@
+Open the App using the url --> https://thunderous-dusk-ecc080.netlify.app/
+\
+\
 ![image](https://user-images.githubusercontent.com/101014831/233409794-b295f111-1fb0-4b52-83fc-2fdf355556c6.png)
 \
 \
